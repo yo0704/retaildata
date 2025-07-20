@@ -1,12 +1,3 @@
-Correlation Coefficients:
-Footfall - Net Sales: 0.6900693772226624
-Footfall - Promo Spend: 0.021227883198102662
-Net Sales - Promo Spend: 0.09128398658536738
-
-Strongest Correlation:
-The pair with the strongest correlation is 'Footfall-Net_Sales' with a coefficient of 0.6900693772226624.
-
-JSON Output:
 {
   "pair": "Footfall-Net_Sales",
   "correlation": 0.6900693772226624
